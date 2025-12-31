@@ -111,7 +111,7 @@ Orem, Utah
 First general-purpose computer built to solve *a large class of numerical problems*.  1945-1955
 
  -  Fisrt computer to run at electronic speed
- - Killed by lightning strik in 1955
+ - Killed by lightning strike in 1955
  - Early problems were **precisely specified**: inputs, algorithms, outputs, ...
  - Results were deterministically computed
 
